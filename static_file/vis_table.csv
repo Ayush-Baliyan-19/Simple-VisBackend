@@ -1,0 +1,15 @@
+visualization,VL_vis_mark,vis_ID,complexity
+Histogram,bar,HT,10
+BarChartxOffOrdinal,bar,BCxO,20
+BarChartxOffNominal,bar,BCxN,20
+BarChartOrdinal,bar,BCO,30
+BarChartNominal,bar,BCN,30
+PieChartOrdinal,arc,PCO,50
+PieChartNominal,arc,PCN,50
+LineChart,line,LC,60
+LineChartOrdinal,line,LCO,70
+LineChartNominal,line,LCN,70
+LineChartTemporal,line,LCT,75
+Scatterplot,point,SP,80
+ScatterplotOrdinal,point,SPO,90
+ScatterplotNominal,point,SPN,90

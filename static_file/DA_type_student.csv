@@ -1,0 +1,2 @@
+DA_name,gender,NationalITy,PlaceofBirth,StageID,GradeID,SectionID,Topic,Semester,Relation,raisedhands,VisITedResources,AnnouncementsView,Discussion,ParentAnsweringSurvey,ParentschoolSatisfaction,StudentAbsenceDays,Class
+DA_type,Nominal,Nominal,Nominal,Ordinal,Ordinal,Nominal,Nominal,Nominal,Nominal,Numeric,Numeric,Numeric,Numeric,Nominal,Nominal,Ordinal,Ordinal

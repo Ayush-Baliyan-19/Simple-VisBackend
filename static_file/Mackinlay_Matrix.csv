@@ -1,0 +1,14 @@
+imp_value,Numeric,Ordinal,Nominal,Time
+100,Position,Position,Position,TimeAxis
+95,Length/Height,Density,ColorHue,
+90,Angle,ColorSaturation,Texture,
+85,Slope,ColorHue,Connection,
+80,Area/Size,Texture,Containment,
+75,Volume,Connection,Density,
+70,Density,Containment,ColorSaturation,
+65,ColorSaturation,Length/Height,Shape,
+60,ColorHue,Angle,Length/Height,
+55,Texture,Slope,Angle,
+50,Connection,Area/Size,Slope,
+45,Containment,Volume,Area/Size,
+40,Shape,Shape,Volume,
